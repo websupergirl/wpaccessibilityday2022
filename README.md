@@ -8,6 +8,7 @@ Resources and information for our presentation at WordPress Accessibility Day 20
 
 ### Specs
 * [Most Recent Specifications for ARIA](https://www.w3.org/TR/wai-aria-1.1/)
+* [Using ARIA](https://www.w3.org/TR/using-aria/) from the W3C
 
 ### Headless Front Ends
 * [Gatsby](https://www.gatsbyjs.com/) the static site builder
@@ -24,3 +25,6 @@ Resources and information for our presentation at WordPress Accessibility Day 20
 * [Sage](https://roots.io/sage/), an advanced WordPress starter theme with a modern development workflow
 * [Scaffolding.io](https://scaffolding.io/), a responsive framework for WordPress
 * [WP Rig](https://wprig.io/), a progressive WordPress Theme Rig
+
+### Code Snippets
+* [Accessible Read More Link](https://codepen.io/amheckel/pen/mdKPwMO) using aria-describedby
