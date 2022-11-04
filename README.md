@@ -3,6 +3,7 @@ Resources and information for our presentation at WordPress Accessibility Day 20
 
 ## Presentation
 * [Slides](https://docs.google.com/presentation/d/1OrpGLsMNXJfsfN79kZ92s_hUrD8ne0oBa3jH9le9F9c/edit?usp=sharing)
+* [Video](https://youtu.be/PNswrOZ0gMo?t=10763)
 
 ## Links
 
